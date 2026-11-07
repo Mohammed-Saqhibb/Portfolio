@@ -24,7 +24,7 @@ Clean, responsive portfolio with:
 
 - **Email**: [msaqhib76@gmail.com](mailto:msaqhib76@gmail.com)
 - **LinkedIn**: [Mohammed Saqhib](http://www.linkedin.com/in/mohammed-saqhib-87b8b325a)
-- **GitHub**: [Mohammed-Saqhib](https://github.com/Mohammed-Saqhib)
+- **GitHub**: [Mohammed-Saqhib](https://github.com/Mohammed-Saqhibb)
 - **Live Portfolio**: [Portfolio Website](https://mohammed-saqhib.github.io/Portfolio/)
 - **Live Portfolio 2nd Link**: [Portfolio Website]( https://mohammed-saqhib-portfolio.vercel.app/)
 
